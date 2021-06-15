@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d03aaf20093778f41329fde9b689dde",
+    "revision": "d7735a89a0b607d54a53cf6b24d0f9db",
     "url": "/code-with-p2c/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/code-with-p2c/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "e58d2f32889f6a64cb69",
-    "url": "/code-with-p2c/static/css/main.b12c1b6c.chunk.css"
+    "revision": "c7f0885eb9ebe5502df6",
+    "url": "/code-with-p2c/static/css/main.18b23c8b.chunk.css"
   },
   {
     "revision": "66b12c39cc83fe62ffec",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/code-with-p2c/static/js/2.caeffd9f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e58d2f32889f6a64cb69",
-    "url": "/code-with-p2c/static/js/main.c27deb9d.chunk.js"
+    "revision": "c7f0885eb9ebe5502df6",
+    "url": "/code-with-p2c/static/js/main.ea26314a.chunk.js"
   },
   {
     "revision": "b51424c070c504abf31a",
