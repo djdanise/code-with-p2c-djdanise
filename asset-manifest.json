@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cd17de9.chunk.css",
-    "main.js": "/static/js/main.3f973a7e.chunk.js",
-    "main.js.map": "/static/js/main.3f973a7e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5e682c5b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5e682c5b.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.caeffd9f.chunk.js": "/static/js/2.caeffd9f.chunk.js",
-    "static/js/2.caeffd9f.chunk.js.map": "/static/js/2.caeffd9f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.240b357711331fc9b45ffda6cad0f06f.js": "/precache-manifest.240b357711331fc9b45ffda6cad0f06f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.6cd17de9.chunk.css.map": "/static/css/main.6cd17de9.chunk.css.map",
-    "static/js/2.caeffd9f.chunk.js.LICENSE.txt": "/static/js/2.caeffd9f.chunk.js.LICENSE.txt",
-    "static/media/Hello.scss": "/static/media/jakethedog.5628a15b.jpeg",
-    "static/media/Intro.scss": "/static/media/p2c.7767753c.png"
+    "main.css": "/code-with-p2c/static/css/main.b12c1b6c.chunk.css",
+    "main.js": "/code-with-p2c/static/js/main.c27deb9d.chunk.js",
+    "main.js.map": "/code-with-p2c/static/js/main.c27deb9d.chunk.js.map",
+    "runtime-main.js": "/code-with-p2c/static/js/runtime-main.93dcca58.js",
+    "runtime-main.js.map": "/code-with-p2c/static/js/runtime-main.93dcca58.js.map",
+    "static/css/2.de424728.chunk.css": "/code-with-p2c/static/css/2.de424728.chunk.css",
+    "static/js/2.caeffd9f.chunk.js": "/code-with-p2c/static/js/2.caeffd9f.chunk.js",
+    "static/js/2.caeffd9f.chunk.js.map": "/code-with-p2c/static/js/2.caeffd9f.chunk.js.map",
+    "index.html": "/code-with-p2c/index.html",
+    "precache-manifest.f25e158de041be47fb5d4f1746062260.js": "/code-with-p2c/precache-manifest.f25e158de041be47fb5d4f1746062260.js",
+    "service-worker.js": "/code-with-p2c/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/code-with-p2c/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b12c1b6c.chunk.css.map": "/code-with-p2c/static/css/main.b12c1b6c.chunk.css.map",
+    "static/js/2.caeffd9f.chunk.js.LICENSE.txt": "/code-with-p2c/static/js/2.caeffd9f.chunk.js.LICENSE.txt",
+    "static/media/Hello.scss": "/code-with-p2c/static/media/jakethedog.5628a15b.jpeg",
+    "static/media/Intro.scss": "/code-with-p2c/static/media/p2c.7767753c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e682c5b.js",
+    "static/js/runtime-main.93dcca58.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.caeffd9f.chunk.js",
-    "static/css/main.6cd17de9.chunk.css",
-    "static/js/main.3f973a7e.chunk.js"
+    "static/css/main.b12c1b6c.chunk.css",
+    "static/js/main.c27deb9d.chunk.js"
   ]
 }
