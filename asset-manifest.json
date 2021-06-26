@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/code-with-p2c/static/css/main.28ff3b1c.chunk.css",
-    "main.js": "/code-with-p2c/static/js/main.d872567b.chunk.js",
-    "main.js.map": "/code-with-p2c/static/js/main.d872567b.chunk.js.map",
-    "runtime-main.js": "/code-with-p2c/static/js/runtime-main.93dcca58.js",
-    "runtime-main.js.map": "/code-with-p2c/static/js/runtime-main.93dcca58.js.map",
-    "static/css/2.de424728.chunk.css": "/code-with-p2c/static/css/2.de424728.chunk.css",
-    "static/js/2.5c726ae7.chunk.js": "/code-with-p2c/static/js/2.5c726ae7.chunk.js",
-    "static/js/2.5c726ae7.chunk.js.map": "/code-with-p2c/static/js/2.5c726ae7.chunk.js.map",
-    "index.html": "/code-with-p2c/index.html",
-    "precache-manifest.cb6580998e7bbb9c78bac714d724c7c6.js": "/code-with-p2c/precache-manifest.cb6580998e7bbb9c78bac714d724c7c6.js",
-    "service-worker.js": "/code-with-p2c/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/code-with-p2c/static/css/2.de424728.chunk.css.map",
-    "static/css/main.28ff3b1c.chunk.css.map": "/code-with-p2c/static/css/main.28ff3b1c.chunk.css.map",
-    "static/js/2.5c726ae7.chunk.js.LICENSE.txt": "/code-with-p2c/static/js/2.5c726ae7.chunk.js.LICENSE.txt",
-    "static/media/Hello.scss": "/code-with-p2c/static/media/jakethedog.5628a15b.jpeg",
-    "static/media/Intro.scss": "/code-with-p2c/static/media/p2c.7767753c.png"
+    "main.css": "/code-with-p2c-djdanise/static/css/main.6f50c8d9.chunk.css",
+    "main.js": "/code-with-p2c-djdanise/static/js/main.ac047b62.chunk.js",
+    "main.js.map": "/code-with-p2c-djdanise/static/js/main.ac047b62.chunk.js.map",
+    "runtime-main.js": "/code-with-p2c-djdanise/static/js/runtime-main.bfba2e32.js",
+    "runtime-main.js.map": "/code-with-p2c-djdanise/static/js/runtime-main.bfba2e32.js.map",
+    "static/css/2.9233ae65.chunk.css": "/code-with-p2c-djdanise/static/css/2.9233ae65.chunk.css",
+    "static/js/2.0e394721.chunk.js": "/code-with-p2c-djdanise/static/js/2.0e394721.chunk.js",
+    "static/js/2.0e394721.chunk.js.map": "/code-with-p2c-djdanise/static/js/2.0e394721.chunk.js.map",
+    "index.html": "/code-with-p2c-djdanise/index.html",
+    "precache-manifest.bbd0257d4271c99e6556d01254bc49c1.js": "/code-with-p2c-djdanise/precache-manifest.bbd0257d4271c99e6556d01254bc49c1.js",
+    "service-worker.js": "/code-with-p2c-djdanise/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/code-with-p2c-djdanise/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.6f50c8d9.chunk.css.map": "/code-with-p2c-djdanise/static/css/main.6f50c8d9.chunk.css.map",
+    "static/js/2.0e394721.chunk.js.LICENSE.txt": "/code-with-p2c-djdanise/static/js/2.0e394721.chunk.js.LICENSE.txt",
+    "static/media/Hello.scss": "/code-with-p2c-djdanise/static/media/jakethedog.5628a15b.jpeg",
+    "static/media/Intro.scss": "/code-with-p2c-djdanise/static/media/sunset2.1daab138.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93dcca58.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.5c726ae7.chunk.js",
-    "static/css/main.28ff3b1c.chunk.css",
-    "static/js/main.d872567b.chunk.js"
+    "static/js/runtime-main.bfba2e32.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.0e394721.chunk.js",
+    "static/css/main.6f50c8d9.chunk.css",
+    "static/js/main.ac047b62.chunk.js"
   ]
 }
