@@ -11,11 +11,8 @@ import './About.scss';
 const About = () => (
 
     <React.Fragment>
-
         <Row style = {{width: '100%'}}>
-            <div className="space">
-                {/* <h1>test</h1> */}
-            </div>
+            <div className="space"/>
         </Row>
         <Row style = {{width: '100%'}}>
             <Col md="2" />
@@ -23,7 +20,7 @@ const About = () => (
                 <div style={{ width: '100%', overflowX: 'hidden' }}>
                     <Fade >
                         <Parallax x={[-50, 50]}>
-                            <h1 className="banner_text">React + github pages</h1>
+                            <h1 className="banner_text">React + GitHub Pages</h1>
                         </Parallax>
                     </Fade>
                 </div>
@@ -40,7 +37,6 @@ const About = () => (
                                 <p className="text">
                                 26-June-2021 | 2-4pm <br />
                                     <br />
-                                    {/* I have a passion for solving problems, helping others, and watching the Leafs. */}
                                     </p>
                             </Parallax>
                         </main>
@@ -55,43 +51,19 @@ const About = () => (
                                 <h1 className="text" >
                                     RSVP to the event here. 
                                 </h1>                                   
-                                <br />
-                                {/* <div style={{
-                                    display: 'flex',
-                                    alignItems: 'center',
-                                    flexWrap: 'wrap'
-                                }}> */}
-
-<a target="_blank" href="https://www.facebook.com/events/197719935560769?ref=newsfeed" >
+                                <br/>
+                                <a target="_blank" href="https://www.facebook.com/events/197719935560769?ref=newsfeed" >
                                     <FaFacebookSquare className= "icon" size={70} /> 
                                 </a>
-                                {/* </div> */}
-                            
                             </Parallax>
                         </main>
                     </Fade>
                 </div>
             </Col>
-
-
-
         </Row>
-
         <Row>
-            <div className="space" >
-                {/* <h1 className="banner_text">
-                    Here are some of the technologies and languages I have worked with.
-                </h1> */}
-            </div>
+            <div className="space"/>
         </Row>
-
-
-
-
-
-
-
-
     </React.Fragment >
 
 );

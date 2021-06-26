@@ -7,7 +7,7 @@ const Intro = () => (
         <div className="buttons">
             <ButtonGroup>
                 <Button target="_blank" href="https://www.facebook.com/events/197719935560769?ref=newsfeed">P2C</Button>
-                <Button target="_blank" href="https://github.com/ethanwarnar/code-with-p2c-demo">Source Code</Button>
+                <Button target="_blank" href="https://github.com/ethanwarnar/code-with-p2c/tree/code">Source Code</Button>
             </ButtonGroup>
         </div>
         <div className="main"/>

@@ -18,7 +18,6 @@ const Hello = () => (
                     </Fade>
                 </div>
             </Col>
-
             <Col md="6">
                 <div style={{ width: '100%', overflowX: 'hidden' }}>
                     <Fade >
@@ -26,12 +25,6 @@ const Hello = () => (
                             <Parallax x={[80, -100]}>
                                 <h1 className="headline">Build a personal website.</h1>
                             </Parallax>
-                            {/* <Parallax x={[80, -80]}>
-                                <p className="text">
-                                    React + github pages <br />
-                                    <br />
-                                </p>
-                            </Parallax> */}
                         </main>
                     </Fade>
                 </div>
